@@ -1,11 +1,23 @@
 {
   "name": "proyecto4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguusricardo/proyecto4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aguusricardo/proyecto4/issues"
+  },
+  "homepage": "https://github.com/aguusricardo/proyecto4#readme",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
 }
